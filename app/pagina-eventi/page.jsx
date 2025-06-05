@@ -1,4 +1,4 @@
-// Pagina con semplice logica di card eventi che riconosce data e seleziona da solo passato e presente
+// Pagina bilingue con semplice logica di card eventi che riconosce data e seleziona da solo passato e presente
 
 // "use client";
 
